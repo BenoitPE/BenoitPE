@@ -8,11 +8,10 @@
 </p>
   
 
-- 💻 I'm currently .NET Developer Analyst Apprentice
-- 🔭 I’m currently working at Velan SAS
+- 💻 I'm currently an apprentice engineer .NET developer
+- 🔭 I’m currently working at Ace Digitale
 - 📚 I’m currently studying at [ESGI Lyon]("https://www.esgi.fr/campus-lyon.html") 📚
-- 👀 See all my projects here : [BenoitPE's repositories](https://github.com/BenoitPE?tab=repositories)
-- ⚡ Fun fact: I love useless optimization project 
+- 👀 See all my funny projects here : [BenoitPE's repositories](https://github.com/BenoitPE?tab=repositories)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benoitpe&show_icons=true&locale=en&theme=dark" alt="benoitpe" /></p>
 
