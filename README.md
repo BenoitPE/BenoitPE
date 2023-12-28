@@ -8,7 +8,6 @@
 </p>
   
 
-- 💻 I'm currently an apprentice engineer .NET developer
+- 💻 I'm currently a software engineer
 - 🔭 I’m currently working at Ace Digitale
-- 📚 I’m currently studying at [ESGI Lyon]("https://www.esgi.fr/campus-lyon.html") 📚
 - 👀 See all my funny projects here : [BenoitPE's repositories](https://github.com/BenoitPE?tab=repositories)
